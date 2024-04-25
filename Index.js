@@ -49,7 +49,7 @@ mongoose
     }
   )
   .then(() => {
-    console.log("Mongoose connected");
+    console.log("Mongoose work correctly");
   })
   .catch(() => {
     console.log("Mongoose Connection error");
